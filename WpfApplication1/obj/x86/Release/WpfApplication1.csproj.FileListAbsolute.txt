@@ -1,0 +1,26 @@
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\bin\Release\WpfApplication1.exe
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\bin\Release\WpfApplication1.pdb
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\bin\Release\Microsoft.Kinect.Toolkit.dll
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\bin\Release\Microsoft.Samples.Kinect.WpfViewers.dll
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\Advisor1.baml
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\Advisor2.baml
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\Advisor3.baml
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\MainWindow.baml
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\game_over.baml
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\Win.baml
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\Advisor1.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\Advisor2.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\Advisor3.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\game_over.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\Win.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\App.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\WpfApplication1_MarkupCompile.cache
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\WpfApplication1.g.resources
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\WpfApplication1.csproj.GenerateResource.Cache
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\WpfApplication1.exe
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Release\WpfApplication1.pdb
+E:\课程\Interactive media\Final Project\Game Code\Full Project\Maze Game\WpfApplication1\obj\x86\Release\WpfApplication1.exe
+E:\课程\Interactive media\Final Project\Game Code\Full Project\Maze Game\WpfApplication1\obj\x86\Release\WpfApplication1.pdb

@@ -1,0 +1,67 @@
+D:\Work\Projects\Playground\KinectInteraction\GettingStarted\bin\Debug\GettingStarted.exe.config
+D:\Work\Projects\Playground\KinectInteraction\GettingStarted\bin\Debug\GettingStarted.exe
+D:\Work\Projects\Playground\KinectInteraction\GettingStarted\bin\Debug\GettingStarted.pdb
+D:\Work\Projects\Playground\KinectInteraction\GettingStarted\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\Work\Projects\Playground\KinectInteraction\GettingStarted\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\Work\Projects\Playground\KinectInteraction\GettingStarted\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\Work\Projects\Playground\KinectInteraction\GettingStarted\obj\Debug\GettingStarted.csprojResolveAssemblyReference.cache
+D:\Work\Projects\Playground\KinectInteraction\GettingStarted\obj\Debug\MainWindow.baml
+D:\Work\Projects\Playground\KinectInteraction\GettingStarted\obj\Debug\MainWindow.g.cs
+D:\Work\Projects\Playground\KinectInteraction\GettingStarted\obj\Debug\App.g.cs
+D:\Work\Projects\Playground\KinectInteraction\GettingStarted\obj\Debug\GettingStarted_MarkupCompile.cache
+D:\Work\Projects\Playground\KinectInteraction\GettingStarted\obj\Debug\GettingStarted.g.resources
+D:\Work\Projects\Playground\KinectInteraction\GettingStarted\obj\Debug\GettingStarted.Properties.Resources.resources
+D:\Work\Projects\Playground\KinectInteraction\GettingStarted\obj\Debug\GettingStarted.csproj.GenerateResource.Cache
+D:\Work\Projects\Playground\KinectInteraction\GettingStarted\obj\Debug\GettingStarted.exe
+D:\Work\Projects\Playground\KinectInteraction\GettingStarted\obj\Debug\GettingStarted.pdb
+E:\Desktop\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe.config
+E:\Desktop\GettingStarted\GettingStarted\obj\Debug\GettingStarted.exe
+E:\Desktop\GettingStarted\GettingStarted\obj\Debug\GettingStarted.pdb
+E:\Desktop\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe
+E:\Desktop\GettingStarted\GettingStarted\bin\Debug\GettingStarted.pdb
+E:\Desktop\GettingStarted\GettingStarted\obj\Debug\GettingStarted.csprojResolveAssemblyReference.cache
+E:\Desktop\GettingStarted\GettingStarted\obj\Debug\MainWindow.baml
+E:\Desktop\GettingStarted\GettingStarted\obj\Debug\MainWindow.g.cs
+E:\Desktop\GettingStarted\GettingStarted\obj\Debug\App.g.cs
+E:\Desktop\GettingStarted\GettingStarted\obj\Debug\GettingStarted_MarkupCompile.cache
+E:\Desktop\GettingStarted\GettingStarted\obj\Debug\GettingStarted.g.resources
+E:\Desktop\GettingStarted\GettingStarted\obj\Debug\GettingStarted.Properties.Resources.resources
+E:\Desktop\GettingStarted\GettingStarted\obj\Debug\GettingStarted.csproj.GenerateResource.Cache
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe.config
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\GettingStarted\GettingStarted\obj\Debug\GettingStarted.exe
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\GettingStarted\GettingStarted\obj\Debug\GettingStarted.pdb
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\GettingStarted\GettingStarted\bin\Debug\GettingStarted.pdb
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\GettingStarted\GettingStarted\obj\Debug\GettingStarted.csprojResolveAssemblyReference.cache
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\GettingStarted\GettingStarted\obj\Debug\MainWindow.baml
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\GettingStarted\GettingStarted\obj\Debug\MainWindow.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\GettingStarted\GettingStarted\obj\Debug\App.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\GettingStarted\GettingStarted\obj\Debug\GettingStarted_MarkupCompile.cache
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\GettingStarted\GettingStarted\obj\Debug\GettingStarted.g.resources
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\GettingStarted\GettingStarted\obj\Debug\GettingStarted.Properties.Resources.resources
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\GettingStarted\GettingStarted\obj\Debug\GettingStarted.csproj.GenerateResource.Cache
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\Temp\GettingStarted\bin\Debug\GettingStarted.exe.config
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\Temp\GettingStarted\obj\Debug\GettingStarted.exe
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\Temp\GettingStarted\obj\Debug\GettingStarted.pdb
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\Temp\GettingStarted\bin\Debug\GettingStarted.exe
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\Temp\GettingStarted\bin\Debug\GettingStarted.pdb
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\Temp\GettingStarted\obj\Debug\MainWindow.baml
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\Temp\GettingStarted\obj\Debug\MainWindow.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\Temp\GettingStarted\obj\Debug\App.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\Temp\GettingStarted\obj\Debug\GettingStarted_MarkupCompile.cache
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\Temp\GettingStarted\obj\Debug\GettingStarted.g.resources
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\Temp\GettingStarted\obj\Debug\GettingStarted.Properties.Resources.resources
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\Temp\GettingStarted\obj\Debug\GettingStarted.csproj.GenerateResource.Cache
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\TempPE\GettingStarted\bin\Debug\GettingStarted.exe.config
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\TempPE\GettingStarted\obj\Debug\GettingStarted.exe
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\TempPE\GettingStarted\obj\Debug\GettingStarted.pdb
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\TempPE\GettingStarted\bin\Debug\GettingStarted.exe
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\TempPE\GettingStarted\bin\Debug\GettingStarted.pdb
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\TempPE\GettingStarted\obj\Debug\GettingStarted.csprojResolveAssemblyReference.cache
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\TempPE\GettingStarted\obj\Debug\MainWindow.baml
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\TempPE\GettingStarted\obj\Debug\MainWindow.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\TempPE\GettingStarted\obj\Debug\App.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\TempPE\GettingStarted\obj\Debug\GettingStarted_MarkupCompile.cache
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\TempPE\GettingStarted\obj\Debug\GettingStarted.g.resources
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\TempPE\GettingStarted\obj\Debug\GettingStarted.Properties.Resources.resources
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\TempPE\GettingStarted\obj\Debug\GettingStarted.csproj.GenerateResource.Cache

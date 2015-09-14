@@ -1,0 +1,44 @@
+C:\Users\fish\Desktop\Maze Game - Copy\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\fish\Desktop\Maze Game - Copy\WpfApplication1\obj\x86\Debug\game_over.baml
+C:\Users\fish\Desktop\Maze Game - Copy\WpfApplication1\obj\x86\Debug\Question1.baml
+C:\Users\fish\Desktop\Maze Game - Copy\WpfApplication1\obj\x86\Debug\game_over.g.cs
+C:\Users\fish\Desktop\Maze Game - Copy\WpfApplication1\obj\x86\Debug\Question1.g.cs
+C:\Users\fish\Desktop\Maze Game - Copy\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\fish\Desktop\Maze Game - Copy\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\fish\Desktop\Maze Game - Copy\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\fish\Desktop\Maze Game - Copy\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\fish\Desktop\Maze Game - Copy\WpfApplication1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\fish\Desktop\Maze Game - Copy\WpfApplication1\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\fish\Desktop\Maze Game - Copy\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\fish\Desktop\Maze Game - Copy\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\fish\Desktop\Maze Game - Copy\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\fish\Desktop\Maze Game - Copy\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\fish\Desktop\Maze Game - Copy\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\fish\Desktop\Maze Game - Copy\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\fish\Desktop\Maze Game - Copy\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\MainWindow.baml
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\game_over.baml
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\game_over.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\App.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\Advisor1.baml
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\Advisor1.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\Advisor2.baml
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\Advisor3.baml
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\Advisor2.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\Advisor3.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\Win.baml
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\Win.g.cs
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+E:\Xtian\Carleton School\TIM Program\Winter14\SYSC 5409\Final Project\Game Code\Full Project\Maze Game - Copy\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb

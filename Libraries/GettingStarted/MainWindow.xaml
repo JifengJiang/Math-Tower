@@ -1,0 +1,24 @@
+﻿<Window x:Class="GettingStarted.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:k="http://schemas.microsoft.com/kinect/2013"
+        Title="Questions" Height="800" Width="1000">
+    <Grid>
+        <k:KinectSensorChooserUI HorizontalAlignment="Center" VerticalAlignment="Top" Name="sensorChooserUi" />
+        <k:KinectUserViewer VerticalAlignment="Top" HorizontalAlignment="Center" k:KinectRegion.KinectRegion="{Binding ElementName=kinectRegion}" Height="100" UserColoringMode="Manual" />
+        <k:KinectRegion Name="kinectRegion">
+            <Grid>
+                <Canvas>
+                    <Image Source="images/Q1.png" Canvas.Left="180" Canvas.Top="80" VerticalAlignment="Center" Height="356" Width="635"/>
+                </Canvas>
+                <k:KinectTileButton Label="a" Click="ButtonOnClickA" Background="LightSeaGreen" VerticalAlignment="Top" Margin="112,493,0,0" HorizontalAlignment="Left" Content="9&#xA;&#xA;" FontSize="72"></k:KinectTileButton>
+                <k:KinectTileButton Label="b" Click="ButtonOnClickB" Background="LightSeaGreen" VerticalAlignment="Top" Margin="419,493,0,0" HorizontalAlignment="Left" Content="5&#xA;&#xA;" FontSize="72"/>
+                <k:KinectTileButton Label="c" Click="ButtonOnClickC" Background="LightSeaGreen" VerticalAlignment="Top" Margin="716,493,0,0" HorizontalAlignment="Left" Content="7&#xA;&#xA;" FontSize="72"/>
+                
+                <TextBlock Text="30" Name="SecondArea" VerticalAlignment="Top" HorizontalAlignment="Right" FontSize="50" Background="Transparent" Grid.Column="8" Margin="0,20,0,0" Height="60"/>
+
+            </Grid>
+        </k:KinectRegion>
+
+
+    </Grid>
+</Window>
